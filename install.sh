@@ -12,5 +12,5 @@ echo ""
 echo "##################################################"
 echo "# digite sua senha para instalar as dependências #"
 echo "##################################################"
-sudo pip3 install -r requirements.txt
+sudo pip3 install -r administer/requirements.tt
 
