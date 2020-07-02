@@ -1,7 +1,7 @@
 #! bin/bash/python3
 # -*- coding: UTF-8 -*-
 '''
-AUTOR:Fabrício Caetano Lopes
+AUTOR:Fabrício
 OBJETIVO: gerenciar o seu dinheiro para manter um equilíbrio
 entre o que você pode e não pode gastar, usando uma metodologia 
 que visa ajudalo a não ficar sem dinheiro como que você realmente 
